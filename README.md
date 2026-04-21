@@ -4,6 +4,9 @@
 
 This project builds a **complete trading pipeline** for Bitcoin 1-minute data (3.1M records, 2017-2023). It bridges **quant finance** (statistical arbitrage, backtesting) and **machine learning** (anomaly detection, XGBoost signals).
 
+**What makes this project different:**
+- Professional feature engineering (Order Flow Imbalance, Parkinson Volatility)
+
 ## 📊 Dataset
 
 | Property | Value |
